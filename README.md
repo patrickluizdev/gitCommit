@@ -1,7 +1,7 @@
 # Orientação para commits Semânticos
 
 ### Feat:
-> Nova Feature no projeto, exemplo: Funcionalidade, serviço, endpoint, etc ...
+> Nova Feature no projeto, exemplo: Funcionalidade, serviço, endpoint, etc...
 
 ------------------------------------------
 
@@ -17,7 +17,7 @@
 
 ### Chore:
 > Mudanças que não influenciam o sistema nem arquivos de teste, exemplo: 
-> - Adicionar arquivos ao git ignore, mudanças no eslint, etc ...
+> - Adicionar arquivos ao git ignore, mudanças no eslint, etc...
 
 ------------------------------------------
 
@@ -38,7 +38,7 @@
 
 ### Perf:
 > Alteração feita para melhorar a performace do projeto, exemplo:
-> - Melhorar a query do banco de dados, deixar uma função mais performática, etc ...
+> - Melhorar a query do banco de dados, deixar uma função mais performática, etc...
 
 ------------------------------------------
 
